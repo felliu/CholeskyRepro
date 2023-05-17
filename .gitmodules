@@ -1,0 +1,3 @@
+[submodule "BandCholesky"]
+	path = BandCholesky
+	url = https://github.com/felliu/BandCholesky
